@@ -1,4 +1,3 @@
-
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nhhoang296@gmail.com) 
 
@@ -12,8 +11,8 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=NHH0122&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🏆 Certifications
+[![Red Team Leaders](https://img.shields.io/badge/Red%20Team%20Leaders-Certified-brightgreen?style=for-the-badge)](https://courses.redteamleaders.com/exam-completion/2a053075c4263ec3)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NHH0122&icon=0&color=0)](https://visitcount.itsvg.in)
